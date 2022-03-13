@@ -34,7 +34,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		D56661FA27DD690A008A7F6A /* MyFirstSwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyFirstSwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D56661FA27DD690A008A7F6A /* HelloWorld.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HelloWorld.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D56661FD27DD690A008A7F6A /* MyFirstSwiftUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyFirstSwiftUIApp.swift; sourceTree = "<group>"; };
 		D56661FF27DD690A008A7F6A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		D566620127DD690D008A7F6A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -84,7 +84,7 @@
 		D56661FB27DD690A008A7F6A /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D56661FA27DD690A008A7F6A /* MyFirstSwiftUI.app */,
+				D56661FA27DD690A008A7F6A /* HelloWorld.app */,
 				D566620A27DD690E008A7F6A /* MyFirstSwiftUITests.xctest */,
 				D566621427DD690E008A7F6A /* MyFirstSwiftUIUITests.xctest */,
 			);
@@ -144,7 +144,7 @@
 			);
 			name = MyFirstSwiftUI;
 			productName = MyFirstSwiftUI;
-			productReference = D56661FA27DD690A008A7F6A /* MyFirstSwiftUI.app */;
+			productReference = D56661FA27DD690A008A7F6A /* HelloWorld.app */;
 			productType = "com.apple.product-type.application";
 		};
 		D566620927DD690E008A7F6A /* MyFirstSwiftUITests */ = {
@@ -433,7 +433,7 @@
 				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = ferruhcihan.MyFirstSwiftUI;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = HelloWorld;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -462,7 +462,7 @@
 				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = ferruhcihan.MyFirstSwiftUI;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = HelloWorld;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
