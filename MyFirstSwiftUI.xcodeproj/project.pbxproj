@@ -14,6 +14,7 @@
 		D566620F27DD690E008A7F6A /* MyFirstSwiftUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D566620E27DD690E008A7F6A /* MyFirstSwiftUITests.swift */; };
 		D566621927DD690E008A7F6A /* MyFirstSwiftUIUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D566621827DD690E008A7F6A /* MyFirstSwiftUIUITests.swift */; };
 		D566621B27DD690E008A7F6A /* MyFirstSwiftUIUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D566621A27DD690E008A7F6A /* MyFirstSwiftUIUITestsLaunchTests.swift */; };
+		D5FCFC9B27DE2E9F007E6056 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D5FCFC9A27DE2E9F007E6056 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		D566621427DD690E008A7F6A /* MyFirstSwiftUIUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyFirstSwiftUIUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D566621827DD690E008A7F6A /* MyFirstSwiftUIUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyFirstSwiftUIUITests.swift; sourceTree = "<group>"; };
 		D566621A27DD690E008A7F6A /* MyFirstSwiftUIUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyFirstSwiftUIUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		D5FCFC9A27DE2E9F007E6056 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 				D56661FD27DD690A008A7F6A /* MyFirstSwiftUIApp.swift */,
 				D56661FF27DD690A008A7F6A /* ContentView.swift */,
 				D566620127DD690D008A7F6A /* Assets.xcassets */,
+				D5FCFC9A27DE2E9F007E6056 /* LaunchScreen.storyboard */,
 				D566620327DD690D008A7F6A /* Preview Content */,
 			);
 			path = MyFirstSwiftUI;
@@ -231,6 +234,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D5FCFC9B27DE2E9F007E6056 /* LaunchScreen.storyboard in Resources */,
 				D566620527DD690D008A7F6A /* Preview Assets.xcassets in Resources */,
 				D566620227DD690D008A7F6A /* Assets.xcassets in Resources */,
 			);
